@@ -1,7 +1,7 @@
 variable tfc_org_name {
   description = "Name of the Terraform Cloud Organization"
   type        = string
-  default     = "Oosterwijk"
+  default     = "nokkie-learns-terraform"
 }
 
 variable tfc_network_workspace_name {
